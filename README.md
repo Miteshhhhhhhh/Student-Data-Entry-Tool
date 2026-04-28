@@ -1,2 +1,2 @@
 # Student-Data-Entry-Tool
-Python tool that takes student Names, Marks and Grades as input and save them automatically into an Excel File.
+Python tool that takes student names, marks and grades as input and save them automatically into an Excel file.
